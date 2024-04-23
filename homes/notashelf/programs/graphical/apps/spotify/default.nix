@@ -38,7 +38,7 @@ in {
         hidePodcasts
         playlistIcons
         lastfm
-        genre
+        #genre
         historyShortcut
         bookmark
         fullAlbumDate

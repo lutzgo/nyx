@@ -1,3 +1,3 @@
 {
-  users.users.root.hashedPassword = "*"; # lock root account
+  #users.users.root.hashedPassword = "*"; # lock root account
 }

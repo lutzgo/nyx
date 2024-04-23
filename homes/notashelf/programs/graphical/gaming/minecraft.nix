@@ -48,7 +48,7 @@ in {
         additionalPrograms = with pkgs; [
           gamemode
           mangohud
-          jprofiler
+          #jprofiler
         ];
 
         glfw =

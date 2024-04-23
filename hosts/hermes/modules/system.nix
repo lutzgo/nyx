@@ -57,7 +57,7 @@
 
       spotify.enable = true;
 
-      git.signingKey = "0x02D1DD3FA08B6B29";
+      git.signingKey = "0x7BE3C4FBC4BD9026";
 
       gaming = {
         enable = true;

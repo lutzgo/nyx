@@ -30,7 +30,7 @@ in {
 
           preventJunkFiles = true;
           useSystemClipboard = true;
-          spellChecking.enable = true;
+          spellcheck.enable = true;
 
           enableLuaLoader = true;
           enableEditorconfig = true;
